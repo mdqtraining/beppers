@@ -1,0 +1,3 @@
+           Release_Notes V 1.0
+
+1.vertical carousel added for how it works

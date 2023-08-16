@@ -1,0 +1,311 @@
+/* .wrapper{
+    overflow-x: auto;
+} */
+/*  linear-gradient(to bottom left,#EC008C 0%, #F05A28 100%) !important;*/
+body {
+    /* min-height: 100vh; */
+    background: #fdfcfa !important;
+    background-size: cover;
+}
+
+.fontgradient {
+
+    background: linear-gradient(to right, #EC008C 0%, #F05A28 100%);
+    /* rgba(41, 59, 79, 0.8), rgba(41, 58, 79, 0.8) */
+}
+
+.crome {
+    background-image: linear-gradient(to right, rgba(236, 0, 140, 0.6) 0%, rgba(240, 90, 40, 0.6) 100%), url("../images/bg.jpg");
+    background-size: cover;
+
+    /* background-color:#212535; */
+    /* linear-gradient(rgba(41, 59, 79, 0.5), rgba(41, 58, 79, 0.4)),  */
+}
+
+.glass {
+    background: rgba(255,255,255,0.1);
+    border-radius: 6px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.3);
+    backdrop-filter: blur(3.5px);
+    -webkit-backdrop-filter: blur(0.5px);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.btn{
+    background-image: linear-gradient(to bottom left,#EC008C 0%, #F05A28 100%) !important;
+    color: #fdfcfa !important;
+    font-weight: 500 !important;
+    text-transform: uppercase !important;
+    font-size: 1rem !important;
+    box-shadow: none !important;
+    border-radius: .4rem !important;
+}
+
+.clone-color1 {
+    background-color: #1bd5e5;
+    background-image: linear-gradient(#35c1ef, #1bd5e5);
+}
+
+.clone-color2 {
+    background-color: rgba(158, 154, 154, 0.616) !important;
+    color: black !important;
+}
+
+.txtclr{
+    /* background: linear-gradient(to bottom left,#EC008C 0%, #F05A28 100%) !important;
+    background-clip: text!important;
+    -webkit-text-fill-color: transparent!important;     */
+    color: #000 !important;
+}
+
+
+.clone-color3 {
+    background-color: #35b68b;
+    background-image: linear-gradient(#16a86b, #39b68b);
+}
+
+.clone-color4 {
+    background-color: #ffa794;
+    background-image: linear-gradient(#ffac96, #ff6974);
+}
+
+a.mq:hover{
+
+    color: #FFB6C1 !important; 
+}
+a.mq{
+    color: #fff !important;
+}
+
+a.tablinks:hover{
+    color: #000;
+}
+/* .mh{
+    color: black;
+} */
+.crep {
+    height: 100%;
+    width: 100%;
+    border-radius: 10px;
+
+}
+
+/* .bros1 {
+    background-color: #fff;
+} */
+
+/* .bros2 {
+    background-color: #fff;
+} */
+
+.cue {
+    height: 100%;
+    width: 100%;
+    border-radius: 10px;
+}
+
+.cave1 {
+    background-color: #ffa794;
+    background-image: linear-gradient(#ffac96, #ff6974);
+}
+
+.cave2 {
+    background-color: #1bd5e5;
+    background-image: linear-gradient(#35c1ef, #1bd5e5);
+}
+
+.cave3 {
+    background-color: #35b68b;
+    background-image: linear-gradient(#16a86b, #39b68b);
+}
+
+.cave4 {
+    background-color: #434976;
+    background-image: linear-gradient(#2c5776, #434976);
+}
+
+.aja {
+    height: 100%;
+    width: 100%;
+    background-color: #fff;
+    border-radius: 10px;
+}
+
+.clp {
+    background-color: #fff;
+    border-radius: 10px;
+    border: none;
+    position: relative;
+    margin-top: 30px;
+    box-shadow: 0 0.46875rem 2.1875rem rgba(90, 97, 105, 0.1), 0 0.9375rem 1.40625rem rgba(90, 97, 105, 0.1), 0 0.25rem 0.53125rem rgba(90, 97, 105, 0.12), 0 0.125rem 0.1875rem rgba(90, 97, 105, 0.1);
+}
+
+.apl {
+    background: linear-gradient(to right, #F12651, #741227) !important;
+    color: #F12651;
+}
+
+.apl1 {
+    background: linear-gradient(to right, #FC6703, #793101) !important;
+    color: #FC6703;
+
+}
+
+.apl2 {
+    background: linear-gradient(to right, #ED0A76, #720539) !important;
+    color: #ED0A76;
+}
+.apl3{
+    background: -webkit-linear-gradient(60deg, #FC6703, #F12651, #ED0A76);
+    background: -moz-linear-gradient(60deg, #FC6703, #F12651, #ED0A76);
+    background: -ms-linear-gradient(60deg, #FC6703, #F12651, #ED0A76);
+    background: -o-linear-gradient(60deg, #FC6703, #F12651, #ED0A76);
+    background: linear-gradient(60deg, #FC6703, #F12651, #ED0A76);
+}
+
+.card .card-statistic-3 .card-icon-large .fas,
+.card .card-statistic-3 .card-icon-large .far,
+.card .card-statistic-3 .card-icon-large .fab,
+.card .card-statistic-3 .card-icon-large .fal {
+    font-size: 110px;
+}
+
+.card .card-statistic-3 .card-icon {
+    text-align: center;
+    line-height: 50px;
+    margin-left: 15px;
+    color: #000;
+    position: absolute;
+    right: -5px;
+    top: 20px;
+    opacity: 0.1;
+}
+
+.l-bg-cyan {
+    background: linear-gradient(135deg, #F12651, #741227) !important;
+    color: #fff;
+}
+
+.l-bg-cherry {
+    background: linear-gradient(to right, #F12651, #741227) !important;
+    color: #fff;
+}
+
+.l-bg-green-dark {
+    background: linear-gradient(to right, #FC6703, #793101) !important;
+    color: #fff;
+}
+
+.l-bg-orange-dark {
+    background: linear-gradient(to right, #ED0A76, #720539) !important;
+    color: #fff;
+}
+.l-bg-gradient{
+    background: -webkit-linear-gradient(60deg, #FC6703, #F12651, #ED0A76);
+    background: -moz-linear-gradient(60deg, #FC6703, #F12651, #ED0A76);
+    background: -ms-linear-gradient(60deg, #FC6703, #F12651, #ED0A76);
+    background: -o-linear-gradient(60deg, #FC6703, #F12651, #ED0A76);
+    background: linear-gradient(60deg, #FC6703, #F12651, #ED0A76);
+    color:#fff;
+}
+.l-bg-green {
+    background: linear-gradient(135deg, #23bdb8 0%, #43e794 100%) !important;
+    color: #fff;
+}
+
+.l-bg-orange {
+    background: linear-gradient(to right, #f9900e, #ffba56) !important;
+    color: #fff;
+}
+
+@media screen and (max-width:1366px) {
+    .clone {
+        height: 100%;
+        width: 100%;
+        border-radius: 10px;
+        background-color: #fff;
+
+    }
+
+    .clone1 {
+        height: 100%;
+        width: 100%;
+        border-radius: 10px;
+        color: white;
+    }
+
+    .crep {
+        height: 100%;
+        width: 100%;
+        border-radius: 10px;
+        background-color: #fff;
+    }
+
+    .cue {
+        height: 100%;
+        width: 100%;
+        border-radius: 10px;
+    }
+}
+
+@media screen and (min-width:1367px) and (max-width:1920px) {
+
+    .clone {
+        height: 750px;
+        width: 750px;
+        color: #fff;
+        background-color: #1bd5e5;
+    }
+
+    .clone1 {
+        height: 360px;
+        width: 360px;
+
+
+    }
+
+    .crep {
+        height: 750px;
+        width: 750px;
+        border-radius: 10px;
+        background-color: #fff;
+
+    }
+
+    .cue {
+        height: 360px;
+        width: 360px;
+        border-radius: 10px;
+    }
+
+}
+
+@media screen and (min-width:1921px) {
+    .clone {
+        height: 1000px;
+        width: 1000px;
+        color: #fff;
+        background-color: #1bd5e5;
+
+    }
+
+    .clone1 {
+        height: 485px;
+        width: 480px;
+    }
+
+    .crep {
+        height: 100px;
+        width: 1000px;
+        border-radius: 10px;
+        background-color: #fff;
+
+    }
+
+    .cue {
+        height: 485px;
+        width: 485px;
+        border-radius: 10px;
+    }
+
+}
