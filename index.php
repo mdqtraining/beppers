@@ -402,8 +402,8 @@
                                             </div>
                                         </div> -->
                                         <div class="media contact_media">
-                                            <div class="media-body contact_media_body py-2">
-                                                <h4 style="color: #fff;"><i class="fa fa-envelope" style="color: #ec0e71;"></i>support@beppers.in</h4>
+                                            <div class="media-body contact_media_body py-2" style="display:grid; align-items-center justify-content-center">
+                                                <h4 style="color: #fff;"><img width="30" height="30" src="https://img.icons8.com/material-rounded/96/EC0E71/mail.png" alt="mail"/> support@beppers.in</h4>
                                             </div>
                                         </div>
                                         <!-- <div class="media contact_media">
